@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CalculadoraPresupuesto {
     public static void main(String[] args) {
         
-        // 1. Creamos el objeto que leera lo que vamos a escribir
+        // 1. Lee los dataos ingresados en la variable leer 
         Scanner leer = new Scanner(System.in);
 
         // 2. Se piden los datos 
